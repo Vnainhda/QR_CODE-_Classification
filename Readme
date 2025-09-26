@@ -1,1 +1,10 @@
+A deep learning project that classifies QR codes based on their security level using Convolutional Neural Networks (CNNs) and image processing techniques.
+🛠️ Tech Stack
 
+Python 3.9+
+
+Deep Learning: TensorFlow, Keras
+
+Image Processing: CNN
+
+Utilities: NumPy, Matplotlib, Scikit-learn
